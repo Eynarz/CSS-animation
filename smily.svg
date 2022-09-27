@@ -1,0 +1,9 @@
+    <svg width="180" height="180"  fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="smiley" viewbox="0 0 180 180">
+        <circle cx="90" cy="90" r="80" stroke-width="10" fill="pink" stroke="purple" />
+        <polyline points="45,120 135,120" stroke-width="10" stroke="purple" stroke-linecap="round"
+            stroke-linejoin="round" />
+              <circle cx="58" cy="60" r="10" fill="pink" stroke-width="10" stroke="purple"/>
+                            <circle cx="120" cy="60" r="10" fill="pink" stroke-width="10" stroke="purple"/>
+            </symbol>
+    </svg>
